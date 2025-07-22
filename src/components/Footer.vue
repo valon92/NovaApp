@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-gray-900 text-white py-10">
+  <footer class="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 text-white py-10">
     <div class="max-w-6xl mx-auto px-4 text-center">
       <h2 class="text-2xl font-semibold mb-4">Let’s work together</h2>
       <p class="mb-6">Contact me for your next frontend project.</p>
